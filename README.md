@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmonir027" alt="mdmonir027" /></a> </p>
 
-- 🔭 I’m currently working on **GistoScope (Private)**
+- 🔭 I’m currently working on **Camp Bow Wow**
 
-- 🌱 I’m currently learning **Advanced NodeJs**
+- 🌱 I’m currently learning **Data Structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdmonir027?tab=repositories](https://github.com/mdmonir027?tab=repositories)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/mdmonir027?tab=repositories](https://github.com/mdmonir027?tab=repositories)
 
-- ⚡ Fun fact **I think I am lazy**
+- ⚡ Fun fact **I think I am fast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
