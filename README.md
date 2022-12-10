@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmonir027" alt="mdmonir027" /></a> </p>
 
-- 🔭 I’m currently working on **Camp Bow Wow**
+- 🔭 I’m currently working on **Event management (Strapi)**
 
 - 🌱 I’m currently learning **Data Structure and algorithm**
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **mmislam027@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mdmonir027?tab=repositories](https://github.com/mdmonir027?tab=repositories)
+- 📄 Know about my experiences [Check It Out](https://hashnode.com/@mdmonir027)
 
-- ⚡ Fun fact **I think I am fast**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
